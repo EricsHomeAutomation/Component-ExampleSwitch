@@ -1,0 +1,4 @@
+switch:
+  - platform: example_switch
+    name: "Example Switch"
+    ip_address: "127.0.0.1"
